@@ -5,7 +5,7 @@ from wtforms.validators import DataRequired, Email, Length
 from flask_bootstrap import Bootstrap
 
 app = Flask(__name__)
-app.secret_key = "EliseFart"
+app.secret_key = "Elise"
 Bootstrap(app)
 
 
